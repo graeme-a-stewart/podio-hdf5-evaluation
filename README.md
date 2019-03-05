@@ -1,9 +1,9 @@
 # Implementation of an HDF5 IO layer for PODIO
 ## Google Summer of Code 2019 Evaluation Test
 
-If you are interested in our GSoC project to implement an HDF5 layer
-in the High-Energy Physics event model software PODIO, then please
-complete the following evaluation test.
+If you are interested in our GSoC project to [implement an HDF5 layer
+in the High-Energy Physics event model software PODIO](https://hepsoftwarefoundation.org/gsoc/2019/proposal_PODIOHDF5.html),
+then please complete the following evaluation test.
 
 This exercise can be completed on most modern Linux distributions, such as
 Ubuntu18.04, CentOS7, Fedora29. OS X is possible, but more tricky to setup, so we
@@ -33,7 +33,7 @@ you can use `sudo` and the password is `hsf`.)
    setup is working.
     - Follow the instructions on the [PODIO github](https://github.com/AIDASoft/podio/blob/master/README.md).
     - Finally, `make test` should run and successfully complete the five
-      PODIO unittests.
+      PODIO unit tests.
 
 N.B. If you are having trouble with any dependencies in your environment
 you can consult the Dockerfiles of the container we provided and that
