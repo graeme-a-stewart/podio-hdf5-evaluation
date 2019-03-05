@@ -12,7 +12,7 @@ do not recommend it. It is not possible to use Windows.
 ## Docker Container
 
 If you do not have direct access to a suitable platform we provide a
-[Docker container](https://cloud.docker.com/u/graemeastewart/repository/docker/graemeastewart/u18-podio)
+[Docker container](https://hub.docker.com/r/graemeastewart/u18-podio)
 that you can use to complete the exercise, `graemeastewart/u18-podio`.
 
 (It is not necessary to have root access in the container, but if you need it
